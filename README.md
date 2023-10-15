@@ -12,15 +12,15 @@ Project Organization
 ------------
 
     ├── data
-    │   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv               <- Data from Kaggle.
+    │   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv     <- Data from Kaggle.
     │
     ├── notebook                                                            
-    │   ├── Attrition_prediction_IBM.ipynb                      <- Jupyter notebook. For 
-    │                             │
-    ├── tableau_dashboard                                       <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   ├──  EDA.twb                                            <- Generated graphics and figures to be used in reporting
-    │   ├──  EDA_tableau_dashboard.pdf
+    │   ├── Attrition_prediction_IBM.ipynb            <- Jupyter notebook for data cleaning, pre-processing, feature engineering, and modeling.
+    │                             
+    ├── tableau_dashboard                                      
+    │   ├──  EDA.twb                                  <- Generated tableau dashboard for Exploratory Data Analysis and the recommended Business Plan
+    │   ├──  EDA_tableau_dashboard.pdf                <- pdf format of the tableau dashboard
     │
-    ├── IBM - Report_final.pdf                                 <- 
+    ├── IBM - Report_final.pdf                        <- The project report with a detailed explanation of pre-processing, feature engineering, modeling, and feature importance.
     │
-    ├── README.md                                              <- The top-level README for developers using this project.
+    ├── README.md                                     <- The top-level README for developers using this project.
