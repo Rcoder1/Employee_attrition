@@ -5,7 +5,7 @@ The goal of this project is to study information from IBM's HR Department, figur
 
 By doing this, IBM can understand which employees are leaving and who might leave next. Predicting this beforehand helps IBM find ways to keep employees happy and prevent them from leaving. This project also helps IBM learn what keeps employees satisfied and motivated to stay in their jobs.
 
-Tableau dashboard - https://public.tableau.com/app/profile/bhawana.goel/viz/IBM_HR_analytics_employee_attrition/Story1?publish=yes
+Tableau dashboard - https://public.tableau.com/shared/8DPCP7RX7?:display_count=n&:origin=viz_share_link
 
 
 Project Organization
