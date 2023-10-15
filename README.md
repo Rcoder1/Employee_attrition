@@ -1,9 +1,9 @@
 Employee_Attrition
 ==============================
 
-The purpose of this project is to analyze the data obtained from the Human Resources Department of IBM, determine the factors that influence employees to leave IBM, and build a prediction model to predict % employee attrition. 
+The goal of this project is to study information from IBM's HR Department, figure out why employees are leaving, and build a model to predict how many more might leave.
 
-This project will help IBM’s HR Department and employers by providing an in-depth analysis to identify what types of employees are choosing to leave, and determining which employees are at risk to leave next. Predicting employee attrition before it happens will allow organization employers and managers to develop strategies to minimize employee attrition rates and motivate employees to stay in their jobs. This project can also help determine the underlying factors and insights important for employee retention. 
+By doing this, IBM can understand which employees are leaving and who might leave next. Predicting this beforehand helps IBM find ways to keep employees happy and prevent them from leaving. This project also helps IBM learn what keeps employees satisfied and motivated to stay in their jobs.
 
 
 Project Organization
